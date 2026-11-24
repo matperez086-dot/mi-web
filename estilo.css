@@ -1,0 +1,108 @@
+
+
+body {
+    background-color: #bbec07;
+    font-family: Arial, sans-serif;
+    color: #222222;
+    margin: 20px;
+    padding: 15px;
+}
+
+h1 {
+    background-color: #ffdf00;
+    color: #08752b;
+    font-size: 35px;
+    text-align: center;
+    padding: 25px;
+    margin: 30px;
+    border: 3px solid green;
+}
+
+
+h2 {
+    background-color: #138b36;
+    color: white;
+    font-size: 24px;
+    text-align: left;
+    padding: 12px;
+    margin-top: 30px;
+    border: 2px solid #086324;
+}
+
+
+p {
+    font-size: 17px;
+    text-align: justify;
+    height: 1.5;
+    margin: 15px;
+    padding: 5px;
+}
+
+
+.bandera {
+    display: block;
+    width: 60%;
+    height: 300px;
+    margin: 20px auto;
+    border: 3px solid green;
+}
+
+
+.himno {
+    color: #064d1d;
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    background-color: #eff30a;
+    padding: 15px;
+    margin: 10px auto;
+    border: 1px solid green;
+}
+
+
+li {
+    font-size: 15px;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+.galeria {
+    text-align: center;
+    background-color: #c5d817;
+    padding: 15px;
+    margin: 20px;
+    border: 2px solid green;
+}
+
+
+.galeria img {
+    width: 30%;
+    height: 220px;
+    object-fit: cover;
+    margin: 10px;
+    padding: 4px;
+    border: 3px solid green;
+}
+
+
+a {
+    color: #08752b;
+    font-size: 18px;
+    margin: 10px;
+}
+
+
+div {
+    background-color: #08752b;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+div {
+    color: white;
+    text-align: center;
+}
+
